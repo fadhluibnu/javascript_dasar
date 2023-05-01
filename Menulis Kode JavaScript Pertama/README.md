@@ -1,4 +1,8 @@
-# Menampilkan Hello World
+# Menulis Kode
+
+Menulis kode dalam pemrograman sama dengan menulis interuksi interuksi untuk di jalankan oleh komputer
+
+## Menampilkan Hello World
 
 Pertama yang akan dibahas adalah menanampilkan `Hello World!` di console. Untuk menampikan sesuatu di console kita bisa gunakan kode `console.log()`. Console log ini adalah kode bawaan JavaScript untuk menampilkan pesan kedalam cosole. console ini bisa berupa web console atau kosole terminal/command
 
