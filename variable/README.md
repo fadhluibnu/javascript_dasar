@@ -25,3 +25,10 @@ atau langsung di inisialisasi seperti ini
 let firstName = "Fadhlu"
 console.log(firstName)
 ```
+
+## Aturan penulisan variable
+
+- Harus dimulai dengan huruf atau underscore `_`
+- Tidak boleh mengandung spasi atau white space. jika nama variable ada dua kata bisa gunakan konsep camelCase yaitu misal firstName, lastName
+
+- tidak boleh ada karakter `!, ., /, \, +, *, dll`
