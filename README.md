@@ -8,3 +8,4 @@
 - [Tipe Data](./Tipe%20Data/)
 - [Operator](./operator/)
 - [If Else Statement](./If%20Else%20Statement/)
+- [Switch Case Statement](./Switch%20Case%20Statement/)
