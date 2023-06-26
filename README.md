@@ -30,3 +30,8 @@
 - [DO While Loop](./Do%20While%20Loop/)
 - [Break % Continue](./Break%20%25%20Continue/README.md)
 - [Label](./Label/README.md)
+- [For In](./For%20In/)
+- [For Of](./For%20Of/README.md)
+- [With Statement](./With%20Statement/README.md)
+- [Function](./Function/README.md)
+- [Function Parameter](./Function%20Parameter/README.md)
