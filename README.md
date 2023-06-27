@@ -35,3 +35,8 @@
 - [With Statement](./With%20Statement/README.md)
 - [Function](./Function/README.md)
 - [Function Parameter](./Function%20Parameter/README.md)
+- [Function Return Value](./Function%20Return%20Value/README.md)
+- [Function Optional Paramter](./Optional%20Parameter/README.md)
+- [Function Default Parameter](./Default%20Parameter)
+- [Rest Parameter](./Rest%20Parameter/README.md)
+- [Function Sebagai Value](./Function%20Sebagai%20Value/README.md)
